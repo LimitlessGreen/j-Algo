@@ -34,7 +34,7 @@ public interface Constants {
 
 	/*----------------------------valid key range----------------------------*/
 	/** The minimum integer value a key can have. */
-	public static final int MIN_KEY = 1;
+	public static final int MIN_KEY = 0;
 	/** The maximum integer value a key can have. */
 	public static final int MAX_KEY = 99;
 
